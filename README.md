@@ -41,7 +41,8 @@
 
 </div>
 
-
+### 🖥 My Blog: 
+# https://ltf-juni0914.tistory.com/
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto)
 
