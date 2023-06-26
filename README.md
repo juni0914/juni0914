@@ -35,9 +35,13 @@
 <div align="center">
   
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juni0914&layout=compact)](https://github.com/delay-100/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni0914&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
 
 </div>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto)
 
