@@ -5,12 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
 
-### 👨‍💻 About Me:
-
-- 컴퓨터공학과 4학년 재학 
-- 정보처리기사
 
 ---
 
